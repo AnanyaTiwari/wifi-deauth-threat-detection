@@ -1,0 +1,29 @@
+body {
+  background: #0b0f14;
+  color: #e6edf3;
+}
+
+h1, h2, h3 {
+  color: #00ffcc;
+}
+
+.badge-high {
+  color: #ff4d4d;
+  font-weight: bold;
+}
+
+.badge-med {
+  color: #ffb84d;
+  font-weight: bold;
+}
+
+.badge-low {
+  color: #6bff6b;
+  font-weight: bold;
+}
+
+.footer {
+  margin-top: 24px;
+  opacity: 0.8;
+  font-style: italic;
+}
